@@ -1,0 +1,28 @@
+.recipe-list {
+    text-align: left;
+  }
+  
+  .recipe-list ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .recipe-list ul li {
+    border-bottom: 1px solid #ddd;
+    padding: 10px 0;
+  }
+  
+  .recipe-detail {
+    text-align: left;
+    margin-top: 20px;
+  }
+  
+  .recipe-detail h2 {
+    color: #0073e6;
+  }
+  
+  .recipe-detail ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
